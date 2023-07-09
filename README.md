@@ -1,2 +1,2 @@
-# just-an-output
-A Terraform configuration with an output, for bootstrapping new projects in Terraform Cloud.
+# oidc-aws-tf-cloud
+An AWS IAM OpenID Connect Provider for Terraform Cloud.
